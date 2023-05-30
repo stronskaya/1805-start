@@ -1,0 +1,26 @@
+body{
+  background-color: rgba(204, 231, 243, 0.664);
+  padding: 50px;
+  position: fixed; top: 50%; left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+ textarea {
+ resize: none; /* Запрещаем изменять размер */
+} 
+            
+
+
+
+
+button{
+    appearance: none;
+    border: 0;
+    border-radius: 100px;
+    background: #be9fe6;
+    color: #000000;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
