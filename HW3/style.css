@@ -13,6 +13,17 @@ body{
             
 
 
+h1,h2{
+
+  
+  text-transform: uppercase;
+  font-family: 'Aerial', sans-serif;
+  position: auto;
+  color: rgb(146, 95, 156);
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: black;
+   }
+
 
 
 button{
